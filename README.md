@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vanderphill
 - 👀 I’m interested in python, arduino, 
-- 🌱 I’m currently taking CS50x
-- 💞️ I’m looking to collaborate on anything?
+- 🌱 I’m currently working on an inventory control system
+- 💞️ I’m learning about bash scripting
 - 📫 How to reach me vanderphill@gmail.com
 
 <!---
